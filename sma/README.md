@@ -1,16 +1,8 @@
 # Secure Messaging Application
 
-This is the Gitlab repository for Secure Messaging Application for **Group 16: Gordon Chiang, Lagan Chohan, Tyler Fowler, and Alex Li**.
+This is the repository for Secure Messaging Application for **Group 16: Gordon Chiang, Lagan Chohan, Tyler Fowler, and Alex Li**.
 
 Secure Messaging Application is a Python program that allows users to securely and synchronously message one another.
-
-[A video demo of Secure Messaging Application in action can be found here](https://gitlab.csc.uvic.ca/courses/2021091/SENG360/teams/group-16/sma/-/blob/main/doc/Demo_Video.mp4).
-
-## Documentation
-
-**Please refer to the [Gitlab Wiki](https://gitlab.csc.uvic.ca/courses/2021091/SENG360/teams/group-16/sma/-/wikis/home) for more in-depth documentation**.
-
-**Please refer to the [archived legacy Gitlab repo](https://gitlab.csc.uvic.ca/courses/2021091/SENG360/teams/group-16/sm-legacy) to view the project's activity history**. Secure Messaging Application moved repos because of a bug that prevented us from pushing changes to the legacy repo. The legacy repo was cloned to this repo--this repo is now the most up-to-date.
 
 ## Installation
 
